@@ -49,3 +49,5 @@
 ---
 
 [angelsalazarr](https://github.com/angelsalazarr)
+
+<img src="https://komarev.com/ghpvc/?username=angelsalazarr&style=flat-square&color=blue" alt=""/>
