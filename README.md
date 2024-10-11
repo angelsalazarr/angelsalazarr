@@ -1,6 +1,9 @@
+
+
 <div>
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 </div>
+
 
 ## About me
 
@@ -44,7 +47,9 @@
   <a href="https://www.instagram.com/angelsalazar.r?igsh=MXd0Z3F1MmtiMnpsZw%3D%3D&utm_source=qr" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/angel-ramos-salazar-1816bb328" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>
 </div>
-
+<div>
+  <img src="https://octodex.github.com/images/baracktocat.jpg" width="120" align= "right"/>
+</div>
 
 ---
 
